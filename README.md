@@ -1,0 +1,102 @@
+# Microsoft Power Automate (power-automate)
+Microsoft Power Automate is a cloud-based workflow automation platform that enables users to create automated workflows between apps and services to synchronize files, get notifications, collect data, and orchestrate business processes across cloud, desktop, and AI-driven flows.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/power-automate/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Access:** 3rd-Party
+
+## Tags:
+
+ - Workflow Automation, Enterprise, Low-Code, RPA, Cloud Flows, Desktop Flows, AI
+
+## Timestamps
+
+- **Created:** 2026-03-27
+- **Modified:** 2026-04-28
+
+## APIs
+
+### Microsoft Power Automate
+Microsoft Power Automate is a cloud-based workflow automation platform that lets organizations build automated workflows, robotic process automation, business process flows, and AI-assisted automations across hundreds of connectors.
+
+**Human URL:** [https://powerautomate.microsoft.com](https://powerautomate.microsoft.com)
+
+#### Tags:
+
+ - Workflow Automation, Cloud Flows, Desktop Flows, Connectors
+
+#### Properties
+
+- [Documentation](https://learn.microsoft.com/en-us/power-automate/)
+- [GettingStarted](https://learn.microsoft.com/en-us/power-automate/getting-started)
+- [DeveloperDocumentation](https://learn.microsoft.com/en-us/power-automate/developer/dev-enterprise-intro)
+- [SignUp](https://make.powerautomate.com/)
+
+### Power Automate Desktop Flows Public API
+The Desktop Flows public API enables developers to programmatically manage, run, and monitor desktop flow automations as part of robotic process automation scenarios.
+
+**Human URL:** [https://learn.microsoft.com/en-us/power-automate/developer/desktop-flow-public-apis](https://learn.microsoft.com/en-us/power-automate/developer/desktop-flow-public-apis)
+
+#### Tags:
+
+ - Desktop Flows, RPA, Automation
+
+#### Properties
+
+- [Documentation](https://learn.microsoft.com/en-us/power-automate/developer/desktop-flow-public-apis)
+
+### Power Automate Cloud Flows API
+Programmatic access for managing cloud flows in Power Automate including creating, updating, and running flows using Dataverse and the Power Platform APIs.
+
+**Human URL:** [https://learn.microsoft.com/en-us/power-automate/manage-flows-with-code](https://learn.microsoft.com/en-us/power-automate/manage-flows-with-code)
+
+#### Tags:
+
+ - Cloud Flows, Dataverse, Automation
+
+#### Properties
+
+- [Documentation](https://learn.microsoft.com/en-us/power-automate/manage-flows-with-code)
+
+### Power Automate Custom Connectors
+Build, register, and certify custom connectors that extend Power Automate to communicate with any REST or SOAP API across the Power Platform.
+
+**Human URL:** [https://learn.microsoft.com/en-us/power-automate/developer/register-custom-api](https://learn.microsoft.com/en-us/power-automate/developer/register-custom-api)
+
+#### Tags:
+
+ - Custom Connectors, Integration, Extensibility
+
+#### Properties
+
+- [Documentation](https://learn.microsoft.com/en-us/power-automate/developer/register-custom-api)
+
+## Common Properties
+
+- [Website](https://powerautomate.microsoft.com)
+- [Documentation](https://learn.microsoft.com/en-us/power-automate/)
+- [GettingStarted](https://learn.microsoft.com/en-us/power-automate/getting-started)
+- [DeveloperDocumentation](https://learn.microsoft.com/en-us/power-automate/developer/dev-enterprise-intro)
+- [Pricing](https://powerautomate.microsoft.com/pricing/)
+- [SignUp](https://make.powerautomate.com/)
+- [Blog](https://www.microsoft.com/en-us/power-platform/blog/power-automate/)
+- [Training](https://learn.microsoft.com/en-us/training/powerplatform/power-automate)
+- [Community](https://powerusers.microsoft.com/t5/Power-Automate-Community/ct-p/MPACommunity)
+- [Support](https://powerautomate.microsoft.com/support/)
+- [Ideas](https://ideas.powerautomate.com/)
+- [Templates](https://make.powerautomate.com/templates/)
+- [Connectors](https://learn.microsoft.com/en-us/connectors/connector-reference/)
+- [Status](https://admin.powerplatform.microsoft.com/support/serviceshealth)
+- [TermsOfService](https://www.microsoft.com/licensing/terms/)
+- [PrivacyPolicy](https://privacy.microsoft.com/en-us/privacystatement)
+- [Trust](https://www.microsoft.com/en-us/trust-center)
+- [ChangeLog](https://learn.microsoft.com/en-us/power-platform/released-versions/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
