@@ -111,7 +111,7 @@ common:
     url: https://make.powerautomate.com/templates/
   - type: Connectors
     url: https://learn.microsoft.com/en-us/connectors/connector-reference/
-  - type: Status
+  - type: StatusPage
     url: https://admin.powerplatform.microsoft.com/support/serviceshealth
   - type: TermsOfService
     url: https://www.microsoft.com/licensing/terms/
