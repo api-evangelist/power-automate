@@ -39,9 +39,9 @@ apis:
         url: https://learn.microsoft.com/en-us/power-automate/
       - type: GettingStarted
         url: https://learn.microsoft.com/en-us/power-automate/getting-started
-      - type: DeveloperDocumentation
+      - type: Documentation
         url: https://learn.microsoft.com/en-us/power-automate/developer/dev-enterprise-intro
-      - type: SignUp
+      - type: Signup
         url: https://make.powerautomate.com/
   - aid: power-automate:desktop-flows-api
     name: Power Automate Desktop Flows Public API
@@ -91,11 +91,11 @@ common:
     url: https://learn.microsoft.com/en-us/power-automate/
   - type: GettingStarted
     url: https://learn.microsoft.com/en-us/power-automate/getting-started
-  - type: DeveloperDocumentation
+  - type: Documentation
     url: https://learn.microsoft.com/en-us/power-automate/developer/dev-enterprise-intro
   - type: Pricing
     url: https://powerautomate.microsoft.com/pricing/
-  - type: SignUp
+  - type: Signup
     url: https://make.powerautomate.com/
   - type: Blog
     url: https://www.microsoft.com/en-us/power-platform/blog/power-automate/
@@ -109,7 +109,7 @@ common:
     url: https://ideas.powerautomate.com/
   - type: Templates
     url: https://make.powerautomate.com/templates/
-  - type: Connectors
+  - type: Integrations
     url: https://learn.microsoft.com/en-us/connectors/connector-reference/
   - type: StatusPage
     url: https://admin.powerplatform.microsoft.com/support/serviceshealth
