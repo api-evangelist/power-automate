@@ -85,6 +85,10 @@ apis:
       - type: Documentation
         url: https://learn.microsoft.com/en-us/power-automate/developer/register-custom-api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/power-automate-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/power-automate-domain-security.yml
   - type: Website
     url: https://powerautomate.microsoft.com
   - type: Documentation
